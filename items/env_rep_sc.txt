@@ -1,0 +1,13 @@
+{b}Environmental Report: Santa Clara Data Centers{/b}
+
+April 2026
+
+Santa Clara is one of the largest data center markets in the United States, with significant electricity demand driven by cloud computing, artificial intelligence, and digital infrastructure.
+
+Energy Usage: Electricity demand is relatively well documented through Silicon Valley Power, the city's municipal utility. However, actual electricity consumption is not consistently disclosed for every individual facility.
+
+Projected Water Usage: Some development proposals include estimates of projected water consumption based on facility size and cooling requirements.
+
+Actual Water Usage and Sources: Despite projected estimates, actual annual water consumption and specific water sources are not consistently disclosed at the facility level. Public information does not provide a comprehensive breakdown of potable versus recycled water usage.
+
+Conclusion: Santa Clara provides relatively substantial information about data center electricity demand, but significant gaps remain in reporting actual water consumption and water sourcing (next10,2024).

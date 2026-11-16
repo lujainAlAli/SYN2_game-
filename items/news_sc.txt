@@ -1,0 +1,24 @@
+     __                    _       _                         _                                                
+  /\ \ \_____      __   __| | __ _| |_ __ _    ___ ___ _ __ | |_ ___ _ __                                     
+ /  \/ / _ \ \ /\ / /  / _` |/ _` | __/ _` |  / __/ _ \ '_ \| __/ _ \ '__|                                    
+/ /\  /  __/\ V  V /  | (_| | (_| | || (_| | | (_|  __/ | | | ||  __/ |                                       
+\_\ \/ \___| \_/\_/    \__,_|\__,_|\__\__,_|  \___\___|_| |_|\__\___|_|                                       
+                                                                                                              
+     _                _                                  _           _                            _   _       
+  __| | _____   _____| | ___  _ __  _ __ ___   ___ _ __ | |_   _ __ | | __ _ _ __  _ __   ___  __| | (_)_ __  
+ / _` |/ _ \ \ / / _ \ |/ _ \| '_ \| '_ ` _ \ / _ \ '_ \| __| | '_ \| |/ _` | '_ \| '_ \ / _ \/ _` | | | '_ \ 
+| (_| |  __/\ V /  __/ | (_) | |_) | | | | | |  __/ | | | |_  | |_) | | (_| | | | | | | |  __/ (_| | | | | | |
+ \__,_|\___| \_/ \___|_|\___/| .__/|_| |_| |_|\___|_| |_|\__| | .__/|_|\__,_|_| |_|_| |_|\___|\__,_| |_|_| |_|
+                             |_|                              |_|                                             
+                 _               _                                                                            
+ ___  __ _ _ __ | |_ __ _    ___| | __ _ _ __ __ _                                                            
+/ __|/ _` | '_ \| __/ _` |  / __| |/ _` | '__/ _` |                                                           
+\__ \ (_| | | | | || (_| | | (__| | (_| | | | (_| |                                                           
+|___/\__,_|_| |_|\__\__,_|  \___|_|\__,_|_|  \__,_|                                                          
+------------------------------------------------------------------------------------------------------------------
+SANTA CLARA, Calif. — Santa Clara is reportedly considering a new data center development as demand for artificial intelligence, cloud computing, and digital storage continues to grow. The proposed facility would add to the city's already significant presence in the data center industry
+
+Santa Clara is no stranger to Data centers, as it hosts around ⅓ of the facilities (~69) in California (data center map, n.d). 
+In fact, The first modern data center in the US was built in Santa Clara by exodus communication in 1996. This 15,000 sqft facility paved the way for a new framework in Santa Clara (Farney, 2026).
+What differentiates Santa Clara from your average data center hub is that data centers have been embedded within the community rather than imposed on them… for now. 
+ 
